@@ -64,7 +64,7 @@ Bem-vindo(a) ao meu repositório pessoal no GitHub! Aqui você encontrará meus 
 
 ## 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-gutierrez-andozia-16589320/)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24"/> LinkedIn](https://www.linkedin.com/in/rodrigo-gutierrez-andozia-16589320/)
 
 ---
 
