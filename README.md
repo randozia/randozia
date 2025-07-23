@@ -33,7 +33,7 @@ Bem-vindo(a) ao meu repositório pessoal no GitHub! Aqui você encontrará meus 
 
 ## 📈 GitHub Stats
 
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=randozia&show_icons=true&theme=radical)
 
 ---
 
