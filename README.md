@@ -49,8 +49,7 @@ Bem-vindo(a) ao meu repositório pessoal no GitHub! Aqui você encontrará meus 
 
 ## 📂 Repositórios em destaque
 
-- [**Repositório Público**](https://github.com/randozia/repo_public) – Breve descrição do projeto
-- [**Projeto Y**](link-do-repo) – Breve descrição do projeto
+- [**Repositório Público**](https://github.com/randozia/repo_public) – Meu repositório público
 
 ---
 
