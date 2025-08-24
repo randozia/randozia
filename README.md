@@ -1,6 +1,11 @@
 # 👋 Olá! Eu sou [Rodrigo Gutierrez Andozia]
 
-Bem-vindo(a) ao meu repositório pessoal no GitHub! Aqui você encontrará meus projetos, estudos, experimentos e contribuições para a comunidade open source.
+Bem-vindo(a) ao meu repositório pessoal no GitHub! 
+
+Especialista em Infraestrutura de TI com mais de 20 anos de experiência em ambientes corporativos complexos. 
+Atuação estratégica e técnica em ambientes Linux, Windows, redes, segurança da informação e cloud computing (AWS, OCI, Azure). 
+Forte background em observabilidade, automação, monitoramento e resiliência de sistemas críticos. 
+Profissional certificado por AWS, Oracle, Microsoft e ISC2.
 
 ---
 
